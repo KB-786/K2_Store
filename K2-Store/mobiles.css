@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+*
+{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.affix
+{
+	z-index:100;
+	top:0;
+	width:100%;
+}
+
+#filter
+{
+	background-size:cover;
+	background-color:gray;
+	margin:0;
+	padding:15px;
+}
+
+#ratingFilter
+{
+	font-size:20px;
+}
+
+#brandFilter
+{
+	font-size:20px;
+}
+
+img
+{
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+
+.row1
+{
+	margin-bottom:12px;
+}
+
+.row2
+{
+	border-radius:1px;
+	margin-bottom:12px;
+}
